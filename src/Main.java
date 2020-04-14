@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Name: " + patientName);
         System.out.println("Patient has insurance: " + hasInsurance);
         System.out.println("Body temperature: " + temp);
+        System.out.println("Number of visits: " + numVisits);
     }
 }
